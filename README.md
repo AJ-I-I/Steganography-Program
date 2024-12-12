@@ -1,4 +1,3 @@
-# Stenography
 READ.ME
 INSTRUCTIONS
 -Install imports-
