@@ -19,4 +19,4 @@ This will embed the message into your image and create a new bit map file called
 
 -To run the extraction program-
 To extract the message run the following line: 
-    python. steg.py extract_message “<file (path to output_image.bmp)>"
+    python. steg.py extract_message “<(file path to output_image.bmp)>"
