@@ -13,10 +13,10 @@ To do this...
     		cd C:\Users\<file folder location>
 
 Next, to embed your message run the following line:
-    python steg.py embed_message "<file path to input_image>" output_image.bmp "<your message>"
+    python steg.py embed_message "<(file path to input_image)>" output_image.bmp "<(your message)>"
 
 This will embed the message into your image and create a new bit map file called output_image.bmp
 
 -To run the extraction program-
 To extract the message run the following line: 
-    python. steg.py extract_message “<file path to output_image.bmp>"
+    python. steg.py extract_message “<file (path to output_image.bmp)>"
